@@ -1,0 +1,4253 @@
+{
+    "types": [],
+    "ymm": {
+        "brands": [
+            {
+                "models": [
+                    {
+                        "modelName": "MDX",
+                        "years": [
+                            {
+                                "id": "1.2078656",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/acura/acura-mdx-2015-1.2078656"
+                            },
+                            {
+                                "id": "1.2307817",
+                                "year": "2016",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/acura/acura-2016-1.2307817"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "RDX",
+                        "years": [
+                            {
+                                "id": "1.2078655",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/acura/acura-rdx-2015-1.2078655"
+                            },
+                            {
+                                "id": "1.2306390",
+                                "year": "2016",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/acura/acura-rdx-2016-1.2306390"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "TLX",
+                        "years": [
+                            {
+                                "id": "1.2078654",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/acura/acura-tlx-2015-1.2078654"
+                            },
+                            {
+                                "id": "1.2439019",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/acura/acura-tlx-2016-1.2439019"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "Acura"
+            },
+            {
+                "models": [
+                    {
+                        "modelName": "A3",
+                        "years": [
+                            {
+                                "id": "1.2361257",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/audi/audi-a3-sedan-2016-1.2361257"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "A3 Cabriolet",
+                        "years": [
+                            {
+                                "id": "1.2152185",
+                                "year": "2015",
+                                "type": "Convertible",
+                                "url": "http://www.nydailynews.com/autos/audi/audi-a3-cabriolet-2015-1.2152185"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "A5",
+                        "years": [
+                            {
+                                "id": "1.2232764",
+                                "year": "2015",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/audi/audi-a5-2015-1.2232764"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "A6",
+                        "years": [
+                            {
+                                "id": "1.2162397",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/audi/audi-a6-2015-1.2162397"
+                            },
+                            {
+                                "id": "1.2411859",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/audi/audi-a6-2016-1.2411859"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Allroad",
+                        "years": [
+                            {
+                                "id": "1.2232829",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/audi/audi-allroad-2015-1.2232829"
+                            },
+                            {
+                                "id": "1.2484622",
+                                "year": "2016",
+                                "type": "Wagon",
+                                "url": "http://www.nydailynews.com/autos/audi/audi-allroad-2016-1.2484622"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Q3",
+                        "years": [
+                            {
+                                "id": "1.2152249",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/audi/2015-audi-q3-2015-1.2152249"
+                            },
+                            {
+                                "id": "1.2321612",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/audi/audi-q3-2016-1.2321612"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Q5",
+                        "years": [
+                            {
+                                "id": "1.2151033",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/audi/audi-q5-2015-1.2151033"
+                            },
+                            {
+                                "id": "1.2438927",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/audi/audi-q5-2016-1.2438927"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Q5 Hybrid",
+                        "years": [
+                            {
+                                "id": "1.2152283",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/audi/audi-q5-hybrid-2015-1.2152283"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "RS 5",
+                        "years": [
+                            {
+                                "id": "1.2232811",
+                                "year": "2015",
+                                "type": "Sports Car",
+                                "url": "http://www.nydailynews.com/autos/audi/2015-audi-rs-5-2015-1.2232811"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "S3",
+                        "years": [
+                            {
+                                "id": "1.2361251",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/audi/2016-audi-s3-2016-1.2361251"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "S3 Sedan",
+                        "years": [
+                            {
+                                "id": "1.2152307",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/audi/audi-s3-sedan-2015-1.2152307"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "S4",
+                        "years": [
+                            {
+                                "id": "1.2152328",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/audi/audi-s4-2015-1.2152328"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "S5",
+                        "years": [
+                            {
+                                "id": "1.2232797",
+                                "year": "2015",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/audi/audi-s5-2015-1.2232797"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "S6",
+                        "years": [
+                            {
+                                "id": "1.2162409",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/audi/audi-s6-2015-1.2162409"
+                            },
+                            {
+                                "id": "1.2307852",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/audi/audi-s6-2016-1.2307852"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "SQ5",
+                        "years": [
+                            {
+                                "id": "1.2152344",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/audi/audi-sq5-2015-1.2152344"
+                            },
+                            {
+                                "id": "1.2452708",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/audi/audi-sq5-2016-1.2452708"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "Audi"
+            },
+            {
+                "models": [
+                    {
+                        "modelName": "2 Series",
+                        "years": [
+                            {
+                                "id": "1.2232848",
+                                "year": "2015",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/bmw/bmw-2-series-2015-1.2232848"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "3 Series Gran Turismo",
+                        "years": [
+                            {
+                                "id": "1.2078667",
+                                "year": "2015",
+                                "type": "Wagon",
+                                "url": "http://www.nydailynews.com/autos/bmw/bmw-3-series-gran-turismo-2015-1.2078667"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "3 Series Sedan and Sports Wagon",
+                        "years": [
+                            {
+                                "id": "1.2078659",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/bmw/bmw-3-series-sedan-sports-wagon-2015-1.2078659"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "4 Series",
+                        "years": [
+                            {
+                                "id": "1.2130600",
+                                "year": "2015",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/bmw/bmw-4-series-2015-1.2130600"
+                            },
+                            {
+                                "id": "1.2436259",
+                                "year": "2016",
+                                "type": "Convertible",
+                                "url": "http://www.nydailynews.com/autos/bmw/bmw-4-series-convertible-2016-1.2436259"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "4 Series Gran Coupe",
+                        "years": [
+                            {
+                                "id": "1.2130621",
+                                "year": "2015",
+                                "type": "Hatchback",
+                                "url": "http://www.nydailynews.com/autos/bmw/bmw-4-series-gran-coupe-2015-1.2130621"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "5 series",
+                        "years": [
+                            {
+                                "id": "1.2436304",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/bmw/bmw-5-series-2016-1.2436304"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "5 Series Gran Turismo",
+                        "years": [
+                            {
+                                "id": "1.2078664",
+                                "year": "2015",
+                                "type": "Wagon",
+                                "url": "http://www.nydailynews.com/autos/bmw/bmw-5-series-gran-turismo-2015-1.2078664"
+                            },
+                            {
+                                "id": "1.2436297",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/bmw/bmw-5-series-gran-turismo-2016-1.2436297"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "5 Series Sedan",
+                        "years": [
+                            {
+                                "id": "1.2078665",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/bmw/bmw-5-series-sedan-2015-1.2078665"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "ActiveHybrid 3",
+                        "years": [
+                            {
+                                "id": "1.2078660",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/bmw/bmw-activehybrid-3-2015-1.2078660"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "ActiveHybrid 5",
+                        "years": [
+                            {
+                                "id": "1.2078668",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/bmw/bmw-activehybrid-5-2015-1.2078668"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "M3",
+                        "years": [
+                            {
+                                "id": "1.2078666",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/bmw/bmw-m3-2015-1.2078666"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "M4",
+                        "years": [
+                            {
+                                "id": "1.2130638",
+                                "year": "2015",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/bmw/bmw-m4-2015-1.2130638"
+                            },
+                            {
+                                "id": "1.2436338",
+                                "year": "2016",
+                                "type": "Convertible",
+                                "url": "http://www.nydailynews.com/autos/bmw/bmw-m4-convertible-2016-1.2436338"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "M5",
+                        "years": [
+                            {
+                                "id": "1.2078662",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/bmw/bmw-m5-2015-1.2078662"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "X1",
+                        "years": [
+                            {
+                                "id": "1.2162356",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/bmw/bmw-x1-2015-1.2162356"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "X3",
+                        "years": [
+                            {
+                                "id": "1.2132965",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/bmw/bmw-x3-2015-1.2132965"
+                            },
+                            {
+                                "id": "1.2307903",
+                                "year": "2016",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/bmw/bmw-x3-2016-1.2307903"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "X5",
+                        "years": [
+                            {
+                                "id": "1.2078663",
+                                "year": "2015",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/bmw/bmw-x5-2015-1.2078663"
+                            },
+                            {
+                                "id": "1.2422186",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/bmw/bmw-x5-2016-1.2422186"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "BMW"
+            },
+            {
+                "models": [
+                    {
+                        "modelName": "Enclave",
+                        "years": [
+                            {
+                                "id": "1.2078671",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/buick/buick-enclave-2015-1.2078671"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Encore",
+                        "years": [
+                            {
+                                "id": "1.2078669",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/buick/buick-encore-2015-1.2078669"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "LaCrosse",
+                        "years": [
+                            {
+                                "id": "1.2078672",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/buick/buick-lacrosse-2015-1.2078672"
+                            },
+                            {
+                                "id": "1.2439000",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/buick/buick-lacrosse-2016-1.2439000"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Regal",
+                        "years": [
+                            {
+                                "id": "1.2162426",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/buick/buick-regal-2015-1.2162426"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Verano",
+                        "years": [
+                            {
+                                "id": "1.2078670",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/buick/buick-verano-2015-1.2078670"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "Buick"
+            },
+            {
+                "models": [
+                    {
+                        "modelName": "ATS Coupe",
+                        "years": [
+                            {
+                                "id": "1.2139832",
+                                "year": "2015",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/cadillac/cadillac-ats-coupe-2015-1.2139832"
+                            },
+                            {
+                                "id": "1.2533680",
+                                "year": "2016",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/cadillac/cadillac-ats-coupe-2016-1.2533680"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "ATS Sedan",
+                        "years": [
+                            {
+                                "id": "1.2139856",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/cadillac/cadillac-ats-sedan-2015-1.2139856"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "CT6",
+                        "years": [
+                            {
+                                "id": "1.2536320",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/cadillac/cadillac-ct6-2016-1.2536320"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "CTS",
+                        "years": [
+                            {
+                                "id": "1.2130852",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/cadillac/cadillac-cts-2015-1.2130852"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "CTS sedan",
+                        "years": [
+                            {
+                                "id": "1.2536347",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/cadillac/cadillac-cts-2016-1.2536347"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Escalade",
+                        "years": [
+                            {
+                                "id": "1.2139818",
+                                "year": "2015",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/cadillac/cadillac-escalade-2015-1.2139818"
+                            },
+                            {
+                                "id": "1.2529928",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/cadillac/cadillac-escalade-2016-1.2529928"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "SRX",
+                        "years": [
+                            {
+                                "id": "1.2078673",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/cadillac/cadillac-srx-2015-1.2078673"
+                            },
+                            {
+                                "id": "1.2347460",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/cadillac/cadillac-srx-2016-1.2347460"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "XTS",
+                        "years": [
+                            {
+                                "id": "1.2150554",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/cadillac/cadillac-xts-2015-1.2150554"
+                            },
+                            {
+                                "id": "1.2536641",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/cadillac/cadillac-xts-2016-1.2536641"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "Cadillac"
+            },
+            {
+                "models": [
+                    {
+                        "modelName": "Camaro",
+                        "years": [
+                            {
+                                "id": "1.2084400",
+                                "year": "2015",
+                                "type": "Convertible",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-camaro-v-6-2015-1.2084400"
+                            },
+                            {
+                                "id": "1.2402570",
+                                "year": "2016",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-camaro-coupe-2016-1.2402570"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Camaro SS",
+                        "years": [
+                            {
+                                "id": "1.2084407",
+                                "year": "2015",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-camaro-ss-2015-1.2084407"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Camaro Z/28",
+                        "years": [
+                            {
+                                "id": "1.2078689",
+                                "year": "2015",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-camaro-z-28-2015-1.2078689"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Camaro ZL1",
+                        "years": [
+                            {
+                                "id": "1.2078687",
+                                "year": "2015",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-camaro-zl1-2015-1.2078687"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Colorado",
+                        "years": [
+                            {
+                                "id": "1.2078676",
+                                "year": "2015",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-colorado-2015-1.2078676"
+                            },
+                            {
+                                "id": "1.2394292",
+                                "year": "2016",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-colorado-2016-1.2394292"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Corvette Stingray",
+                        "years": [
+                            {
+                                "id": "1.2130517",
+                                "year": "2015",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-corvette-stingray-2015-1.2130517"
+                            },
+                            {
+                                "id": "1.2457780",
+                                "year": "2016",
+                                "type": "Convertible",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-corvette-stingray-convertible-2016-1.2457780"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Corvette Z06",
+                        "years": [
+                            {
+                                "id": "1.2130578",
+                                "year": "2015",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-corvette-z06-2015-1.2130578"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Cruze",
+                        "years": [
+                            {
+                                "id": "1.2078682",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-cruze-2015-1.2078682"
+                            },
+                            {
+                                "id": "1.2518762",
+                                "year": "2016",
+                                "type": "Compact",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-cruze-2016-1.2518762"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Equinox",
+                        "years": [
+                            {
+                                "id": "1.2078688",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-equinox-2015-1.2078688"
+                            },
+                            {
+                                "id": "1.2371892",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-equinox-2016-1.2371892"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Express",
+                        "years": [
+                            {
+                                "id": "1.2089407",
+                                "year": "2015",
+                                "type": "Van",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-express-2015-1.2089407"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Impala",
+                        "years": [
+                            {
+                                "id": "1.2078681",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-impala-2015-1.2078681"
+                            },
+                            {
+                                "id": "1.2381973",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-impala-2016-1.2381973"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Malibu",
+                        "years": [
+                            {
+                                "id": "1.2078683",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-malibu-2015-1.2078683"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Malibu Limited",
+                        "years": [
+                            {
+                                "id": "1.2371909",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-malibu-limited-2016-1.2371909"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Silverado 1500",
+                        "years": [
+                            {
+                                "id": "1.2078686",
+                                "year": "2015",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-silverado-1500-2015-1.2078686"
+                            },
+                            {
+                                "id": "1.2411885",
+                                "year": "2016",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-silverado-1500-2016-1.2411885"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Silverado 2500HD",
+                        "years": [
+                            {
+                                "id": "1.2078675",
+                                "year": "2015",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-silverado-2500hd-2015-1.2078675"
+                            },
+                            {
+                                "id": "1.2555847",
+                                "year": "2016",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-silverado-2500hd-2016-1.2555847"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Silverado 3500HD",
+                        "years": [
+                            {
+                                "id": "1.2078678",
+                                "year": "2015",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-silverado-3500hd-2015-1.2078678"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Silverado 3500hd  ",
+                        "years": [
+                            {
+                                "id": "1.2508434",
+                                "year": "2016",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-silverado-3500hd-2016-1.2508434"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Sonic",
+                        "years": [
+                            {
+                                "id": "1.2399768",
+                                "year": "2016",
+                                "type": "Compact",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/2016-chevrolet-sonic-hatchback-2016-1.2399768"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Sonic Hatchback",
+                        "years": [
+                            {
+                                "id": "1.2078680",
+                                "year": "2015",
+                                "type": "Hatchback",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-sonic-hatchback-2015-1.2078680"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Sonic Sedan",
+                        "years": [
+                            {
+                                "id": "1.2078690",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-sonic-sedan-2015-1.2078690"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Spark",
+                        "years": [
+                            {
+                                "id": "1.2095200",
+                                "year": "2015",
+                                "type": "Hatchback",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/2015-chevrolet-spark-2015-1.2095200"
+                            },
+                            {
+                                "id": "1.2508459",
+                                "year": "2016",
+                                "type": "Compact",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-spark-2016-1.2508459"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Spark EV",
+                        "years": [
+                            {
+                                "id": "1.2095212",
+                                "year": "2015",
+                                "type": "Hybrid / Electric",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-spark-ev-2015-1.2095212"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Suburban",
+                        "years": [
+                            {
+                                "id": "1.2078685",
+                                "year": "2015",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-suburban-2015-1.2078685"
+                            },
+                            {
+                                "id": "1.2422185",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-suburban-2016-1.2422185"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Tahoe",
+                        "years": [
+                            {
+                                "id": "1.2078677",
+                                "year": "2015",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-tahoe-2015-1.2078677"
+                            },
+                            {
+                                "id": "1.2354114",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-tahoe-2016-1.2354114"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Traverse",
+                        "years": [
+                            {
+                                "id": "1.2078679",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-traverse-2015-1.2078679"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Trax",
+                        "years": [
+                            {
+                                "id": "1.2078684",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-trax-2015-1.2078684"
+                            },
+                            {
+                                "id": "1.2411897",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/chevrolet/chevrolet-trax-2016-1.2411897"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "Chevrolet"
+            },
+            {
+                "models": [
+                    {
+                        "modelName": "200",
+                        "years": [
+                            {
+                                "id": "1.2081508",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/chrysler/chrysler-200-2015-1.2081508"
+                            },
+                            {
+                                "id": "1.2355354",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/chrysler/2016-chrysler-200-2016-1.2355354"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "300",
+                        "years": [
+                            {
+                                "id": "1.2078692",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/chrysler/chrysler-300-2015-1.2078692"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Town & Country",
+                        "years": [
+                            {
+                                "id": "1.2394301",
+                                "year": "2016",
+                                "type": "Minivan",
+                                "url": "http://www.nydailynews.com/autos/chrysler/chrysler-town-country-2016-1.2394301"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Town and Country",
+                        "years": [
+                            {
+                                "id": "1.2078691",
+                                "year": "2015",
+                                "type": "Van",
+                                "url": "http://www.nydailynews.com/autos/chrysler/chrysler-town-country-2015-1.2078691"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "Chrysler"
+            },
+            {
+                "models": [
+                    {
+                        "modelName": "Challenger",
+                        "years": [
+                            {
+                                "id": "1.2078697",
+                                "year": "2015",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/dodge/dodge-challenger-2015-1.2078697"
+                            },
+                            {
+                                "id": "1.2399764",
+                                "year": "2016",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/dodge/dodge-challenger-2016-1.2399764"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Challenger SRT 392 and SRT Hellcat",
+                        "years": [
+                            {
+                                "id": "1.2078693",
+                                "year": "2015",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/dodge/dodge-challenger-srt-392-srt-hellcat-2015-1.2078693"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Charger",
+                        "years": [
+                            {
+                                "id": "1.2078694",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/dodge/dodge-charger-2015-1.2078694"
+                            },
+                            {
+                                "id": "1.2355472",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/dodge/2016-dodge-charger-srt-392-hellcat-2016-1.2355472"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Charger SRT 392 and SRT Hellcat",
+                        "years": [
+                            {
+                                "id": "1.2078695",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/dodge/dodge-charger-srt-392-srt-hellcat-2015-1.2078695"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Dart",
+                        "years": [
+                            {
+                                "id": "1.2078699",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/dodge/dodge-dart-2015-1.2078699"
+                            },
+                            {
+                                "id": "1.2355563",
+                                "year": "2016",
+                                "type": "Compact",
+                                "url": "http://www.nydailynews.com/autos/dodge/dodge-dart-2016-1.2355563"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Durango",
+                        "years": [
+                            {
+                                "id": "1.2078700",
+                                "year": "2015",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/dodge/dodge-durango-2015-1.2078700"
+                            },
+                            {
+                                "id": "1.2450703",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/dodge/dodge-durango-2016-1.2450703"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Grand Caravan",
+                        "years": [
+                            {
+                                "id": "1.2078696",
+                                "year": "2015",
+                                "type": "Minivan",
+                                "url": "http://www.nydailynews.com/autos/dodge/dodge-grand-caravan-2015-1.2078696"
+                            },
+                            {
+                                "id": "1.2394311",
+                                "year": "2016",
+                                "type": "Minivan",
+                                "url": "http://www.nydailynews.com/autos/dodge/dodge-grand-caravan-2016-1.2394311"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Journey",
+                        "years": [
+                            {
+                                "id": "1.2078698",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/dodge/dodge-journey-2015-1.2078698"
+                            },
+                            {
+                                "id": "1.2382011",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/dodge/dodge-journey-2016-1.2382011"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "Dodge"
+            },
+            {
+                "models": [
+                    {
+                        "modelName": "500",
+                        "years": [
+                            {
+                                "id": "1.2151017",
+                                "year": "2015",
+                                "type": "Hatchback",
+                                "url": "http://www.nydailynews.com/autos/fiat/fiat-500-2015-1.2151017"
+                            },
+                            {
+                                "id": "1.2529940",
+                                "year": "2016",
+                                "type": "Compact",
+                                "url": "http://www.nydailynews.com/autos/fiat/fiat-500-abarth-2016-1.2529940"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "500 Abarth",
+                        "years": [
+                            {
+                                "id": "1.2152481",
+                                "year": "2015",
+                                "type": "Hatchback",
+                                "url": "http://www.nydailynews.com/autos/fiat/fiat-500-abarth-2015-1.2152481"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "500c",
+                        "years": [
+                            {
+                                "id": "1.2152422",
+                                "year": "2015",
+                                "type": "Convertible",
+                                "url": "http://www.nydailynews.com/autos/fiat/fiat-500c-2015-1.2152422"
+                            },
+                            {
+                                "id": "1.2529992",
+                                "year": "2016",
+                                "type": "Compact",
+                                "url": "http://www.nydailynews.com/autos/fiat/fiat-500c-2016-1.2529992"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "500e",
+                        "years": [
+                            {
+                                "id": "1.2152449",
+                                "year": "2015",
+                                "type": "Electric",
+                                "url": "http://www.nydailynews.com/autos/fiat/fiat-500e-2015-1.2152449"
+                            },
+                            {
+                                "id": "1.2530010",
+                                "year": "2016",
+                                "type": "Compact",
+                                "url": "http://www.nydailynews.com/autos/fiat/fiat-500e-2016-1.2530010"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "500X",
+                        "years": [
+                            {
+                                "id": "1.2307952",
+                                "year": "2016",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/fiat/fiat-500x-2016-1.2307952"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "Fiat"
+            },
+            {
+                "models": [
+                    {
+                        "modelName": "C-Max",
+                        "years": [
+                            {
+                                "id": "1.2142846",
+                                "year": "2015",
+                                "type": "Hatchback",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-c-max-2015-1.2142846"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Edge",
+                        "years": [
+                            {
+                                "id": "1.2078720",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-edge-2015-1.2078720"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Escape",
+                        "years": [
+                            {
+                                "id": "1.2078706",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-escape-2015-1.2078706"
+                            },
+                            {
+                                "id": "1.2310919",
+                                "year": "2016",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-escape-2016-1.2310919"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Expedition",
+                        "years": [
+                            {
+                                "id": "1.2078705",
+                                "year": "2015",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-expedition-2015-1.2078705"
+                            },
+                            {
+                                "id": "1.2453100",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-expedition-2016-1.2453100"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Expedition EL",
+                        "years": [
+                            {
+                                "id": "1.2453067",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-expedition-el-2016-1.2453067"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Explorer",
+                        "years": [
+                            {
+                                "id": "1.2078704",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-explorer-2015-1.2078704"
+                            },
+                            {
+                                "id": "1.2308133",
+                                "year": "2016",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-explorer-2016-1.2308133"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "f-150",
+                        "years": [
+                            {
+                                "id": "1.2078721",
+                                "year": "2015",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-f-150-2015-1.2078721"
+                            },
+                            {
+                                "id": "1.2436369",
+                                "year": "2016",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-f-150-2016-1.2436369"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "F-250 Super Duty",
+                        "years": [
+                            {
+                                "id": "1.2078710",
+                                "year": "2015",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-f-250-super-duty-2015-1.2078710"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "F-350 Super Duty",
+                        "years": [
+                            {
+                                "id": "1.2078702",
+                                "year": "2015",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-f-350-super-duty-2015-1.2078702"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "F-450 Super Duty",
+                        "years": [
+                            {
+                                "id": "1.2078722",
+                                "year": "2015",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-f-450-super-duty-2015-1.2078722"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Fiesta",
+                        "years": [
+                            {
+                                "id": "1.2411975",
+                                "year": "2016",
+                                "type": "Compact",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-fiesta-st-2016-1.2411975"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Fiesta Hatchback",
+                        "years": [
+                            {
+                                "id": "1.2078724",
+                                "year": "2015",
+                                "type": "Hatchback",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-fiesta-hatchback-2015-1.2078724"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Fiesta Sedan",
+                        "years": [
+                            {
+                                "id": "1.2078709",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-fiesta-sedan-2015-1.2078709"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Fiesta ST",
+                        "years": [
+                            {
+                                "id": "1.2078725",
+                                "year": "2015",
+                                "type": "Hatchback",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-fiesta-st-2015-1.2078725"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Flex",
+                        "years": [
+                            {
+                                "id": "1.2162382",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-flex-2015-1.2162382"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Focus",
+                        "years": [
+                            {
+                                "id": "1.2459853",
+                                "year": "2016",
+                                "type": "Compact",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-focus-st-2016-1.2459853"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Focus Electric",
+                        "years": [
+                            {
+                                "id": "1.2078723",
+                                "year": "2015",
+                                "type": "Hybrid / Electric",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-focus-electric-2015-1.2078723"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Focus Hatchback",
+                        "years": [
+                            {
+                                "id": "1.2078719",
+                                "year": "2015",
+                                "type": "Hatchback",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-focus-hatchback-2015-1.2078719"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Focus Sedan",
+                        "years": [
+                            {
+                                "id": "1.2078731",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-focus-sedan-2015-1.2078731"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Focus ST",
+                        "years": [
+                            {
+                                "id": "1.2078726",
+                                "year": "2015",
+                                "type": "Hatchback",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-focus-st-2015-1.2078726"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Fusion",
+                        "years": [
+                            {
+                                "id": "1.2078714",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-fusion-2015-1.2078714"
+                            },
+                            {
+                                "id": "1.2321639",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-fusion-2016-1.2321639"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Fusion Energi",
+                        "years": [
+                            {
+                                "id": "1.2324252",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-fusion-energi-2016-1.2324252"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Fusion Hybrid",
+                        "years": [
+                            {
+                                "id": "1.2078716",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-fusion-hybrid-2015-1.2078716"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Mustang",
+                        "years": [
+                            {
+                                "id": "1.2078707",
+                                "year": "2015",
+                                "type": "Convertible",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-mustang-2015-1.2078707"
+                            },
+                            {
+                                "id": "1.2422253",
+                                "year": "2016",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-mustang-shelby-gt350-2016-1.2422253"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Mustang ",
+                        "years": [
+                            {
+                                "id": "1.2355570",
+                                "year": "2016",
+                                "type": "Convertible",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-mustang-convertible-2016-1.2355570"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Mustang GT",
+                        "years": [
+                            {
+                                "id": "1.2078712",
+                                "year": "2015",
+                                "type": "Convertible",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-mustang-gt-2015-1.2078712"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Super Duty F-250",
+                        "years": [
+                            {
+                                "id": "1.2402668",
+                                "year": "2016",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-f-250-super-duty-2016-1.2402668"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Super Duty F-350",
+                        "years": [
+                            {
+                                "id": "1.2402697",
+                                "year": "2016",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-f-350-super-duty-2016-1.2402697"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Super Duty F-450",
+                        "years": [
+                            {
+                                "id": "1.2402714",
+                                "year": "2016",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-f-450-super-duty-2016-1.2402714"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Taurus",
+                        "years": [
+                            {
+                                "id": "1.2078711",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-taurus-2015-1.2078711"
+                            },
+                            {
+                                "id": "1.2438979",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-taurus-2016-1.2438979"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Taurus SHO",
+                        "years": [
+                            {
+                                "id": "1.2078713",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-taurus-sho-2015-1.2078713"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Transit",
+                        "years": [
+                            {
+                                "id": "1.2078727",
+                                "year": "2015",
+                                "type": "Van",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-transit-2015-1.2078727"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Transit Connect",
+                        "years": [
+                            {
+                                "id": "1.2078728",
+                                "year": "2015",
+                                "type": "Van",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-transit-connect-2015-1.2078728"
+                            },
+                            {
+                                "id": "1.2422254",
+                                "year": "2016",
+                                "type": "Van",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-transit-connect-van-2016-1.2422254"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Transit Connect Wagon",
+                        "years": [
+                            {
+                                "id": "1.2422256",
+                                "year": "2016",
+                                "type": "Van",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-transit-connect-wagon-2016-1.2422256"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Transit Van",
+                        "years": [
+                            {
+                                "id": "1.2382090",
+                                "year": "2016",
+                                "type": "Van",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-transit-van-2016-1.2382090"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Transit Wagon",
+                        "years": [
+                            {
+                                "id": "1.2382120",
+                                "year": "2016",
+                                "type": "Van",
+                                "url": "http://www.nydailynews.com/autos/ford/ford-transit-wagon-2016-1.2382120"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "Ford"
+            },
+            {
+                "models": [
+                    {
+                        "modelName": "Acadia",
+                        "years": [
+                            {
+                                "id": "1.2078735",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/gmc/gmc-acadia-2015-1.2078735"
+                            },
+                            {
+                                "id": "1.2311033",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/gmc/gmc-acadia-denali-2016-1.2311033"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Canyon",
+                        "years": [
+                            {
+                                "id": "1.2078736",
+                                "year": "2015",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/gmc/gmc-canyon-2015-1.2078736"
+                            },
+                            {
+                                "id": "1.2484662",
+                                "year": "2016",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/gmc/gmc-canyon-2016-1.2484662"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Savana",
+                        "years": [
+                            {
+                                "id": "1.2150540",
+                                "year": "2015",
+                                "type": "Van",
+                                "url": "http://www.nydailynews.com/autos/gmc/gmc-savana-2015-1.2150540"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Sierra 1500",
+                        "years": [
+                            {
+                                "id": "1.2078737",
+                                "year": "2015",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/gmc/gmc-sierra-1500-2015-1.2078737"
+                            },
+                            {
+                                "id": "1.2436324",
+                                "year": "2016",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/gmc/gmc-sierra-1500-2016-1.2436324"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Sierra 2500HD",
+                        "years": [
+                            {
+                                "id": "1.2078738",
+                                "year": "2015",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/gmc/gmc-sierra-2500hd-2015-1.2078738"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Sierra 3500HD",
+                        "years": [
+                            {
+                                "id": "1.2078734",
+                                "year": "2015",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/gmc/gmc-sierra-3500hd-2015-1.2078734"
+                            },
+                            {
+                                "id": "1.2555841",
+                                "year": "2016",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/gmc/gmc-sierra-3500hd-2016-1.2555841"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Terrain",
+                        "years": [
+                            {
+                                "id": "1.2078733",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/gmc/gmc-terrain-2015-1.2078733"
+                            },
+                            {
+                                "id": "1.2355624",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/gmc/gmc-terrain-2016-1.2355624"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Yukon",
+                        "years": [
+                            {
+                                "id": "1.2095169",
+                                "year": "2015",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/gmc/2015-gmc-yukon-2015-1.2095169"
+                            },
+                            {
+                                "id": "1.2422322",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/gmc/gmc-yukon-2016-1.2422322"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Yukon XL",
+                        "years": [
+                            {
+                                "id": "1.2139870",
+                                "year": "2015",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/gmc/gmc-yukon-xl-2015-1.2139870"
+                            },
+                            {
+                                "id": "1.2422357",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/gmc/gmc-yukon-xl-2016-1.2422357"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "GMC"
+            },
+            {
+                "models": [
+                    {
+                        "modelName": "Accord Coupe",
+                        "years": [
+                            {
+                                "id": "1.2078746",
+                                "year": "2015",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/honda/honda-accord-coupe-2015-1.2078746"
+                            },
+                            {
+                                "id": "1.2381691",
+                                "year": "2016",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/honda/honda-accord-coupe-2016-1.2381691"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Accord Hybrid",
+                        "years": [
+                            {
+                                "id": "1.2078745",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/honda/honda-accord-hybrid-2015-1.2078745"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Accord Sedan",
+                        "years": [
+                            {
+                                "id": "1.2078748",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/honda/honda-accord-sedan-2015-1.2078748"
+                            },
+                            {
+                                "id": "1.2347479",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/honda/honda-accord-sedan-2016-1.2347479"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Civic Coupe",
+                        "years": [
+                            {
+                                "id": "1.2078744",
+                                "year": "2015",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/honda/honda-civic-coupe-2015-1.2078744"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Civic Hybrid",
+                        "years": [
+                            {
+                                "id": "1.2078749",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/honda/honda-civic-hybrid-2015-1.2078749"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Civic Sedan",
+                        "years": [
+                            {
+                                "id": "1.2078743",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/honda/honda-civic-sedan-2015-1.2078743"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Civic Si",
+                        "years": [
+                            {
+                                "id": "1.2084356",
+                                "year": "2015",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/honda/honda-civic-si-2015-1.2084356"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "CR-V",
+                        "years": [
+                            {
+                                "id": "1.2078740",
+                                "year": "2015",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/honda/honda-cr-v-2015-1.2078740"
+                            },
+                            {
+                                "id": "1.2412009",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/honda/honda-cr-v-2016-1.2412009"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Fit",
+                        "years": [
+                            {
+                                "id": "1.2078742",
+                                "year": "2015",
+                                "type": "Compact",
+                                "url": "http://www.nydailynews.com/autos/honda/honda-fit-2015-1.2078742"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "HR-V",
+                        "years": [
+                            {
+                                "id": "1.2308161",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/honda/honda-hr-v-2015-1.2308161"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Odyssey",
+                        "years": [
+                            {
+                                "id": "1.2078747",
+                                "year": "2015",
+                                "type": "Minivan",
+                                "url": "http://www.nydailynews.com/autos/honda/honda-odyssey-2015-1.2078747"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Pilot",
+                        "years": [
+                            {
+                                "id": "1.2078741",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/honda/honda-pilot-2015-1.2078741"
+                            },
+                            {
+                                "id": "1.2309194",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/honda/honda-pilot-2016-1.2309194"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "Honda"
+            },
+            {
+                "models": [
+                    {
+                        "modelName": "Accent",
+                        "years": [
+                            {
+                                "id": "1.2525952",
+                                "year": "2016",
+                                "type": "Compact",
+                                "url": "http://www.nydailynews.com/autos/hyundai/hyundai-accent-hatchback-2016-1.2525952"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Accent 5-Door Hatchback",
+                        "years": [
+                            {
+                                "id": "1.2078757",
+                                "year": "2015",
+                                "type": "Hatchback",
+                                "url": "http://www.nydailynews.com/autos/hyundai/hyundai-accent-5-door-hatchback-2015-1.2078757"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Accent Sedan",
+                        "years": [
+                            {
+                                "id": "1.2078754",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/hyundai/hyundai-accent-sedan-2015-1.2078754"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Elantra",
+                        "years": [
+                            {
+                                "id": "1.2080231",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/hyundai/hyundai-elantra-2015-1.2080231"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Elantra GT",
+                        "years": [
+                            {
+                                "id": "1.2078758",
+                                "year": "2015",
+                                "type": "Hatchback",
+                                "url": "http://www.nydailynews.com/autos/hyundai/hyundai-elantra-gt-2015-1.2078758"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Genesis",
+                        "years": [
+                            {
+                                "id": "1.2530044",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/hyundai/hyundai-genesis-2016-1.2530044"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Genesis Coupe",
+                        "years": [
+                            {
+                                "id": "1.2134715",
+                                "year": "2015",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/hyundai/hyundai-genesis-coupe-2015-1.2134715"
+                            },
+                            {
+                                "id": "1.2530038",
+                                "year": "2016",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/hyundai/hyundai-genesis-coupe-2016-1.2530038"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Genesis Sedan",
+                        "years": [
+                            {
+                                "id": "1.2134704",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/hyundai/2015-hyundai-genesis-sedan-2015-1.2134704"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Santa Fe",
+                        "years": [
+                            {
+                                "id": "1.2078753",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/hyundai/hyundai-santa-fe-2015-1.2078753"
+                            },
+                            {
+                                "id": "1.2359827",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/hyundai/2016-hyundai-santa-fe-2016-1.2359827"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Santa Fe Sport",
+                        "years": [
+                            {
+                                "id": "1.2078751",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/hyundai/hyundai-santa-fe-sport-2015-1.2078751"
+                            },
+                            {
+                                "id": "1.2324349",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/hyundai/hyundai-santa-fe-sport-2016-1.2324349"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Sonata",
+                        "years": [
+                            {
+                                "id": "1.2078756",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/hyundai/hyundai-sonata-2015-1.2078756"
+                            },
+                            {
+                                "id": "1.2381692",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/hyundai/hyundai-sonata-2016-1.2381692"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Sonata Hybrid",
+                        "years": [
+                            {
+                                "id": "1.2078752",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/hyundai/hyundai-sonata-hybrid-2015-1.2078752"
+                            },
+                            {
+                                "id": "1.2371922",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/hyundai/hyundai-sonata-hybrid-2015-1.2371922"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Tucson",
+                        "years": [
+                            {
+                                "id": "1.2078759",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/hyundai/hyundai-tucson-2015-1.2078759"
+                            },
+                            {
+                                "id": "1.2311059",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/hyundai/hyundai-tucson-2016-1.2311059"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Veloster",
+                        "years": [
+                            {
+                                "id": "1.2142837",
+                                "year": "2015",
+                                "type": "Hatchback",
+                                "url": "http://www.nydailynews.com/autos/hyundai/hyundai-veloster-2015-1.2142837"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "Hyundai"
+            },
+            {
+                "models": [
+                    {
+                        "modelName": "Q50",
+                        "years": [
+                            {
+                                "id": "1.2150961",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/infiniti/infiniti-q50-2015-1.2150961"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Q50 Hybrid",
+                        "years": [
+                            {
+                                "id": "1.2152502",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/infiniti/infiniti-q50-hybrid-2015-1.2152502"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "QX60",
+                        "years": [
+                            {
+                                "id": "1.2152543",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/infiniti/2015-infiniti-qx60-2015-1.2152543"
+                            },
+                            {
+                                "id": "1.2566591",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/infiniti/infiniti-qx60-2016-1.2566591"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "QX60 Hybrid",
+                        "years": [
+                            {
+                                "id": "1.2152561",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/infiniti/infiniti-qx60-hybrid-2015-1.2152561"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "QX70",
+                        "years": [
+                            {
+                                "id": "1.2347764",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/infiniti/infiniti-qx70-2016-1.2347764"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "Infiniti"
+            },
+            {
+                "models": [
+                    {
+                        "modelName": "F-Type",
+                        "years": [
+                            {
+                                "id": "1.2347790",
+                                "year": "2016",
+                                "type": "Convertible",
+                                "url": "http://www.nydailynews.com/autos/jaguar/jaguar-f-type-convertible-2016-1.2347790"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "Jaguar"
+            },
+            {
+                "models": [
+                    {
+                        "modelName": "Cherokee",
+                        "years": [
+                            {
+                                "id": "1.2078762",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/jeep/jeep-cherokee-2015-1.2078762"
+                            },
+                            {
+                                "id": "1.2355479",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/jeep/2016-jeep-cherokee-2016-1.2355479"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Cherokee Trailhawk",
+                        "years": [
+                            {
+                                "id": "1.2078768",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/jeep/jeep-cherokee-trailhawk-2015-1.2078768"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Compass",
+                        "years": [
+                            {
+                                "id": "1.2078770",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/jeep/jeep-compass-2015-1.2078770"
+                            },
+                            {
+                                "id": "1.2412023",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/jeep/jeep-compass-2016-1.2412023"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Grand Cherokee",
+                        "years": [
+                            {
+                                "id": "1.2078769",
+                                "year": "2015",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/jeep/jeep-grand-cherokee-2015-1.2078769"
+                            },
+                            {
+                                "id": "1.2423595",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/jeep/jeep-grand-cherokee-2016-1.2423595"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Grand Cherokee SRT",
+                        "years": [
+                            {
+                                "id": "1.2078766",
+                                "year": "2015",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/jeep/jeep-grand-cherokee-srt-2015-1.2078766"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Patriot",
+                        "years": [
+                            {
+                                "id": "1.2078764",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/jeep/jeep-patriot-2015-1.2078764"
+                            },
+                            {
+                                "id": "1.2381686",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/jeep/jeep-patriot-2016-1.2381686"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Renegade",
+                        "years": [
+                            {
+                                "id": "1.2156139",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/jeep/jeep-renegade-2015-1.2156139"
+                            },
+                            {
+                                "id": "1.2487763",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/jeep/jeep-renegade-2016-1.2487763"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Renegade Trailhawk",
+                        "years": [
+                            {
+                                "id": "1.2156163",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/jeep/jeep-renegade-trailhawk-2015-1.2156163"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Wrangler",
+                        "years": [
+                            {
+                                "id": "1.2078767",
+                                "year": "2015",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/jeep/jeep-wrangler-2015-1.2078767"
+                            },
+                            {
+                                "id": "1.2371861",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/jeep/jeep-wrangler-2016-1.2371861"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Wrangler Rubicon",
+                        "years": [
+                            {
+                                "id": "1.2078765",
+                                "year": "2015",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/jeep/jeep-wrangler-rubicon-2015-1.2078765"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Wrangler Unlimited",
+                        "years": [
+                            {
+                                "id": "1.2078763",
+                                "year": "2015",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/jeep/jeep-wrangler-unlimited-2015-1.2078763"
+                            },
+                            {
+                                "id": "1.2371865",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/jeep/jeep-wrangler-unlimited-2016-1.2371865"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "Jeep"
+            },
+            {
+                "models": [
+                    {
+                        "modelName": "Forte Koup",
+                        "years": [
+                            {
+                                "id": "1.2078776",
+                                "year": "2015",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/kia/kia-forte-koup-2015-1.2078776"
+                            },
+                            {
+                                "id": "1.2555825",
+                                "year": "2016",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/kia/kia-forte-koup-2016-1.2555825"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Forte Sedan",
+                        "years": [
+                            {
+                                "id": "1.2078779",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/kia/kia-forte-sedan-2015-1.2078779"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Optima",
+                        "years": [
+                            {
+                                "id": "1.2078778",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/kia/kia-optima-2015-1.2078778"
+                            },
+                            {
+                                "id": "1.2431247",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/kia/kia-optima-2016-1.2431247"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Optima Hybrid",
+                        "years": [
+                            {
+                                "id": "1.2078774",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/kia/kia-optima-hybrid-2015-1.2078774"
+                            },
+                            {
+                                "id": "1.2487777",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/kia/kia-optima-hybrid-2016-1.2487777"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Rio",
+                        "years": [
+                            {
+                                "id": "1.2324572",
+                                "year": "2016",
+                                "type": "Compact",
+                                "url": "http://www.nydailynews.com/autos/kia/kia-rio-5-door-2016-1.2324572"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Rio 5-Door",
+                        "years": [
+                            {
+                                "id": "1.2130725",
+                                "year": "2015",
+                                "type": "Hatchback",
+                                "url": "http://www.nydailynews.com/autos/kia/kia-rio-5-door-2015-1.2130725"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Rio Sedan",
+                        "years": [
+                            {
+                                "id": "1.2130709",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/kia/kia-rio-sedan-2015-1.2130709"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Sedona",
+                        "years": [
+                            {
+                                "id": "1.2078777",
+                                "year": "2015",
+                                "type": "Minivan",
+                                "url": "http://www.nydailynews.com/autos/kia/kia-sedona-2015-1.2078777"
+                            },
+                            {
+                                "id": "1.2324625",
+                                "year": "2016",
+                                "type": "Minivan",
+                                "url": "http://www.nydailynews.com/autos/kia/kia-sedona-2016-1.2324625"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Sorento",
+                        "years": [
+                            {
+                                "id": "1.2078771",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/kia/kia-sorento-2015-1.2078771"
+                            },
+                            {
+                                "id": "1.2309332",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/kia/kia-sorento-2015-1.2309332"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Soul",
+                        "years": [
+                            {
+                                "id": "1.2078773",
+                                "year": "2015",
+                                "type": "Wagon",
+                                "url": "http://www.nydailynews.com/autos/kia/kia-soul-2015-1.2078773"
+                            },
+                            {
+                                "id": "1.2381689",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/kia/kia-soul-ev-2016-1.2381689"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Soul EV",
+                        "years": [
+                            {
+                                "id": "1.2081536",
+                                "year": "2015",
+                                "type": "Wagon",
+                                "url": "http://www.nydailynews.com/autos/kia/kia-soul-ev-2015-1.2081536"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Sportage",
+                        "years": [
+                            {
+                                "id": "1.2078772",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/kia/kia-sportage-2015-1.2078772"
+                            },
+                            {
+                                "id": "1.2324661",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/kia/kia-sportage-2016-1.2324661"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "Kia"
+            },
+            {
+                "models": [
+                    {
+                        "modelName": "Range Rover Evoque",
+                        "years": [
+                            {
+                                "id": "1.2347811",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/land-rover/land-rover-range-rover-evoque-2016-1.2347811"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "Land Rover"
+            },
+            {
+                "models": [
+                    {
+                        "modelName": "ES 300h",
+                        "years": [
+                            {
+                                "id": "1.2078783",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/lexus/lexus-es-300h-2015-1.2078783"
+                            },
+                            {
+                                "id": "1.2337720",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/lexus/lexus-es-300h-2016-1.2337720"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "ES 350",
+                        "years": [
+                            {
+                                "id": "1.2078785",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/lexus/lexus-es-350-2015-1.2078785"
+                            },
+                            {
+                                "id": "1.2337808",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/lexus/lexus-es-350-2016-1.2337808"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "GS 350",
+                        "years": [
+                            {
+                                "id": "1.2162477",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/lexus/lexus-gs-2015-1.2162477"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "GS 450h",
+                        "years": [
+                            {
+                                "id": "1.2162497",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/lexus/lexus-gs-hybrid-2015-1.2162497"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "GX 460",
+                        "years": [
+                            {
+                                "id": "1.2162453",
+                                "year": "2015",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/lexus/lexus-gx-2015-1.2162453"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "IS",
+                        "years": [
+                            {
+                                "id": "1.2338188",
+                                "year": "2016",
+                                "type": "Luxury",
+                                "url": "http://www.nydailynews.com/autos/lexus/lexus-2016-1.2338188"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "IS Convertible",
+                        "years": [
+                            {
+                                "id": "1.2078786",
+                                "year": "2015",
+                                "type": "Convertible",
+                                "url": "http://www.nydailynews.com/autos/lexus/lexus-convertibe-2015-1.2078786"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "IS Sedan",
+                        "years": [
+                            {
+                                "id": "1.2078780",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/lexus/lexus-sedan-2015-1.2078780"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "NX 200t",
+                        "years": [
+                            {
+                                "id": "1.2078781",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/lexus/lexus-nx-200t-2015-1.2078781"
+                            },
+                            {
+                                "id": "1.2530054",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/lexus/lexus-nx-200t-2016-1.2530054"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "NX 300h",
+                        "years": [
+                            {
+                                "id": "1.2078784",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/lexus/lexus-nx-300h-2015-1.2078784"
+                            },
+                            {
+                                "id": "1.2532295",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/lexus/lexus-nx-300h-2016-1.2532295"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "RC 350",
+                        "years": [
+                            {
+                                "id": "1.2232853",
+                                "year": "2015",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/lexus/lexus-rc-350-2015-1.2232853"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "RC F",
+                        "years": [
+                            {
+                                "id": "1.2232875",
+                                "year": "2015",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/lexus/lexus-rc-f-2015-1.2232875"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "RX 350",
+                        "years": [
+                            {
+                                "id": "1.2078787",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/lexus/lexus-rx-350-2015-1.2078787"
+                            },
+                            {
+                                "id": "1.2431271",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/lexus/lexus-rx-350-2016-1.2431271"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "RX 450h",
+                        "years": [
+                            {
+                                "id": "1.2078782",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/lexus/lexus-rx-450h-2015-1.2078782"
+                            },
+                            {
+                                "id": "1.2431281",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/lexus/lexus-rx-450h-2016-1.2431281"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "Lexus"
+            },
+            {
+                "models": [
+                    {
+                        "modelName": "MKC",
+                        "years": [
+                            {
+                                "id": "1.2150602",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/lincoln/lincoln-mkc-2015-1.2150602"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "MKX",
+                        "years": [
+                            {
+                                "id": "1.2162375",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/lincoln/lincoln-mkx-2015-1.2162375"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "MKZ",
+                        "years": [
+                            {
+                                "id": "1.2150592",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/lincoln/lincoln-mkz-2015-1.2150592"
+                            },
+                            {
+                                "id": "1.2324668",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/lincoln/lincoln-mkz-2016-1.2324668"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "MKZ Hybrid",
+                        "years": [
+                            {
+                                "id": "1.2150597",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/lincoln/lincoln-mkz-hybrid-2015-1.2150597"
+                            },
+                            {
+                                "id": "1.2338220",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/lincoln/lincoln-mkz-hybrid-2016-1.2338220"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "Lincoln"
+            },
+            {
+                "models": [
+                    {
+                        "modelName": "CX-3",
+                        "years": [
+                            {
+                                "id": "1.2359907",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/mazda/2016-mazda-cx-3-2016-1.2359907"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "CX-5",
+                        "years": [
+                            {
+                                "id": "1.2078791",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/mazda/mazda-cx-5-2015-1.2078791"
+                            },
+                            {
+                                "id": "1.2309664",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/mazda/mazda-cx-5-2016-1.2309664"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Mazda 3 Sedan",
+                        "years": [
+                            {
+                                "id": "1.2078790",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/mazda/mazda-3-sedan-2015-1.2078790"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Mazda 6",
+                        "years": [
+                            {
+                                "id": "1.2078788",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/mazda/mazda-6-2015-1.2078788"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Mazda3 5-Door",
+                        "years": [
+                            {
+                                "id": "1.2078789",
+                                "year": "2015",
+                                "type": "Hatchback",
+                                "url": "http://www.nydailynews.com/autos/mazda/mazda-3-5-door-2015-1.2078789"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Mazda6",
+                        "years": [
+                            {
+                                "id": "1.2309641",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/mazda/mazda-6-2016-1.2309641"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "MX-5 Miata",
+                        "years": [
+                            {
+                                "id": "1.2359872",
+                                "year": "2016",
+                                "type": "Sports Car",
+                                "url": "http://www.nydailynews.com/autos/mazda/2016-mazda-mx-5-miata-2016-1.2359872"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "Mazda"
+            },
+            {
+                "models": [
+                    {
+                        "modelName": "C-Class",
+                        "years": [
+                            {
+                                "id": "1.2382141",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/mercedes-benz/mercedes-benz-c-class-2016-1.2382141"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "C-Class Coupe",
+                        "years": [
+                            {
+                                "id": "1.2078792",
+                                "year": "2015",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/mercedes-benz/mercedes-benz-c-class-coupe-2015-1.2078792"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "C-Class Sedan",
+                        "years": [
+                            {
+                                "id": "1.2078793",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/mercedes-benz/mercedes-benz-c-class-sedan-2015-1.2078793"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "C63 AMG Coupe",
+                        "years": [
+                            {
+                                "id": "1.2078794",
+                                "year": "2015",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/mercedes-benz/mercedes-benz-c63-amg-coupe-2015-1.2078794"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "C63 AMG Sedan",
+                        "years": [
+                            {
+                                "id": "1.2078796",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/mercedes-benz/mercedes-benz-c63-amg-sedan-2015-1.2078796"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "CLA-Class",
+                        "years": [
+                            {
+                                "id": "1.2150436",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/mercedes-benz/mercedes-benz-cla-class-2015-1.2150436"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "CLA45 AMG",
+                        "years": [
+                            {
+                                "id": "1.2150458",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/mercedes-benz/mercedes-benz-cla45-amg-2015-1.2150458"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "E-Class",
+                        "years": [
+                            {
+                                "id": "1.2451320",
+                                "year": "2016",
+                                "type": "Convertible",
+                                "url": "http://www.nydailynews.com/autos/mercedes-benz/mercedes-benz-e-class-cabriolet-2016-1.2451320"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "E-Class Coupe and Cabriolet",
+                        "years": [
+                            {
+                                "id": "1.2084363",
+                                "year": "2015",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/mercedes-benz/mercedes-benz-e-class-coupe-cabriolet-2015-1.2084363"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "E-Class Sedan and Wagon",
+                        "years": [
+                            {
+                                "id": "1.2084384",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/mercedes-benz/mercedes-benz-e-class-sedan-wagon-2015-1.2084384"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "E400 Hybrid",
+                        "years": [
+                            {
+                                "id": "1.2078797",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/mercedes-benz/mercedes-benz-e400-hybrid-2015-1.2078797"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "E63 AMG",
+                        "years": [
+                            {
+                                "id": "1.2078798",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/mercedes-benz/mercedes-benz-e63-amg-2015-1.2078798"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "GL-Class",
+                        "years": [
+                            {
+                                "id": "1.2150478",
+                                "year": "2015",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/mercedes-benz/mercedes-benz-gl-class-2015-1.2150478"
+                            },
+                            {
+                                "id": "1.2518797",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/mercedes-benz/mercedes-benz-gl-class-2016-1.2518797"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "GL63 AMG",
+                        "years": [
+                            {
+                                "id": "1.2150485",
+                                "year": "2015",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/mercedes-benz/mercedes-benz-gl63-amg-2015-1.2150485"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "GLA250",
+                        "years": [
+                            {
+                                "id": "1.2150493",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/mercedes-benz/mercedes-benz-gla-class-2015-1.2150493"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "GLA45 AMG",
+                        "years": [
+                            {
+                                "id": "1.2150501",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/mercedes-benz/mercedes-benz-gla45-amg-2015-1.2150501"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "GLE-Class",
+                        "years": [
+                            {
+                                "id": "1.2422439",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/mercedes-benz/mercedes-benz-gle-class-2016-1.2422439"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "GLE-Class Coupe",
+                        "years": [
+                            {
+                                "id": "1.2436248",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/mercedes-benz/mercedes-benz-gle-class-coupe-2016-1.2436248"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "GLK-Class",
+                        "years": [
+                            {
+                                "id": "1.2130665",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/mercedes-benz/mercedes-benz-glk-class-2015-1.2130665"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "M-Class",
+                        "years": [
+                            {
+                                "id": "1.2088072",
+                                "year": "2015",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/mercedes-benz/mercedes-benz-m-class-2015-1.2088072"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Metris Cargo Vans",
+                        "years": [
+                            {
+                                "id": "1.2487780",
+                                "year": "2016",
+                                "type": "Van",
+                                "url": "http://www.nydailynews.com/autos/mercedes-benz/mercedes-benz-metris-cargo-van-2016-1.2487780"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Metris Passenger Vans",
+                        "years": [
+                            {
+                                "id": "1.2487788",
+                                "year": "2016",
+                                "type": "Van",
+                                "url": "http://www.nydailynews.com/autos/mercedes-benz/mercedes-benz-metris-passenger-van-2016-1.2487788"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "ML63 AMG",
+                        "years": [
+                            {
+                                "id": "1.2095058",
+                                "year": "2015",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/mercedes-benz/mercedes-benz-ml63-amg-2015-1.2095058"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "S-Class Coupe",
+                        "years": [
+                            {
+                                "id": "1.2150524",
+                                "year": "2015",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/mercedes-benz/mercedes-benz-s-class-coupe-2015-1.2150524"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "S-Class Sedan",
+                        "years": [
+                            {
+                                "id": "1.2150513",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/mercedes-benz/mercedes-benz-s-class-sedan-2015-1.2150513"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "S63 AMG Coupe and S65 AMG Coupe",
+                        "years": [
+                            {
+                                "id": "1.2150530",
+                                "year": "2015",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/mercedes-benz/mercedes-benz-s63-amg-coupe-s65-amg-coupe-2015-1.2150530"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "S63 AMG Sedan and S65 AMG Sedan",
+                        "years": [
+                            {
+                                "id": "1.2150518",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/mercedes-benz/mercedes-benz-s63-amg-sedan-s65-amg-sedan-2015-1.2150518"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "Mercedes Benz"
+            },
+            {
+                "models": [
+                    {
+                        "modelName": "Convertible",
+                        "years": [
+                            {
+                                "id": "1.2152587",
+                                "year": "2015",
+                                "type": "Convertible",
+                                "url": "http://www.nydailynews.com/autos/mini/mini-convertible-2015-1.2152587"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Cooper Clubman",
+                        "years": [
+                            {
+                                "id": "1.2561141",
+                                "year": "2016",
+                                "type": "Compact",
+                                "url": "http://www.nydailynews.com/autos/mini/mini-clubman-2016-1.2561141"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Cooper Hardtop",
+                        "years": [
+                            {
+                                "id": "1.2347789",
+                                "year": "2016",
+                                "type": "Compact",
+                                "url": "http://www.nydailynews.com/autos/mini/mini-hardtop-2016-1.2347789"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Countryman",
+                        "years": [
+                            {
+                                "id": "1.2162440",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/mini/mini-countryman-2015-1.2162440"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Coupe and Roadster",
+                        "years": [
+                            {
+                                "id": "1.2152611",
+                                "year": "2015",
+                                "type": "Convertible",
+                                "url": "http://www.nydailynews.com/autos/mini/mini-coupe-roadster-2015-1.2152611"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Hardtop",
+                        "years": [
+                            {
+                                "id": "1.2150933",
+                                "year": "2015",
+                                "type": "Hatchback",
+                                "url": "http://www.nydailynews.com/autos/mini/mini-hardtop-2015-1.2150933"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "Mini"
+            },
+            {
+                "models": [
+                    {
+                        "modelName": "Outlander",
+                        "years": [
+                            {
+                                "id": "1.2338273",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/mitsubishi/mitsubishi-outlander-2016-1.2338273"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Outlander Sport",
+                        "years": [
+                            {
+                                "id": "1.2150573",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/mitsubishi/mitsubishi-outlander-sport-2015-1.2150573"
+                            },
+                            {
+                                "id": "1.2532309",
+                                "year": "2016",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/mitsubishi/mitsubishi-outlander-sport-2016-1.2532309"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "Mitsubishi"
+            },
+            {
+                "models": [
+                    {
+                        "modelName": "Altima",
+                        "years": [
+                            {
+                                "id": "1.2078804",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/nissan/nissan-altima-2015-1.2078804"
+                            },
+                            {
+                                "id": "1.2450717",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/nissan/nissan-altima-2016-1.2450717"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Frontier",
+                        "years": [
+                            {
+                                "id": "1.2078802",
+                                "year": "2015",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/nissan/nissan-frontier-2015-1.2078802"
+                            },
+                            {
+                                "id": "1.2402742",
+                                "year": "2016",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/nissan/nissan-frontier-2016-1.2402742"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Juke",
+                        "years": [
+                            {
+                                "id": "1.2095887",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/nissan/nissan-juke-2015-1.2095887"
+                            },
+                            {
+                                "id": "1.2484554",
+                                "year": "2016",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/nissan/nissan-juke-2016-1.2484554"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Juke Nismo",
+                        "years": [
+                            {
+                                "id": "1.2095896",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/nissan/nissan-juke-nismo-2015-1.2095896"
+                            },
+                            {
+                                "id": "1.2484569",
+                                "year": "2016",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/nissan/nissan-juke-nismo-2016-1.2484569"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Maxima",
+                        "years": [
+                            {
+                                "id": "1.2311078",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/nissan/nissan-maxima-2016-1.2311078"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Murano",
+                        "years": [
+                            {
+                                "id": "1.2078805",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/nissan/nissan-murano-2015-1.2078805"
+                            },
+                            {
+                                "id": "1.2508357",
+                                "year": "2016",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/nissan/nissan-murano-2016-1.2508357"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Pathfinder",
+                        "years": [
+                            {
+                                "id": "1.2078806",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/nissan/nissan-pathfinder-2015-1.2078806"
+                            },
+                            {
+                                "id": "1.2484947",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/nissan/nissan-pathfinder-2016-1.2484947"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Rogue",
+                        "years": [
+                            {
+                                "id": "1.2078801",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/nissan/nissan-rogue-2015-1.2078801"
+                            },
+                            {
+                                "id": "1.2402773",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/nissan/nissan-rogue-2016-1.2402773"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Rogue Select",
+                        "years": [
+                            {
+                                "id": "1.2078803",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/nissan/nissan-rogue-select-2015-1.2078803"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Sentra",
+                        "years": [
+                            {
+                                "id": "1.2078799",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/nissan/nissan-sentra-2015-1.2078799"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Titan",
+                        "years": [
+                            {
+                                "id": "1.2537912",
+                                "year": "2016",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/nissan/nissan-titan-xd-2016-1.2537912"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Versa Note",
+                        "years": [
+                            {
+                                "id": "1.2078800",
+                                "year": "2015",
+                                "type": "Hatchback",
+                                "url": "http://www.nydailynews.com/autos/nissan/nissan-versa-note-2015-1.2078800"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Versa Sedan",
+                        "years": [
+                            {
+                                "id": "1.2078807",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/nissan/nissan-versa-sedan-2015-1.2078807"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "Nissan"
+            },
+            {
+                "models": [
+                    {
+                        "modelName": "Cayenne",
+                        "years": [
+                            {
+                                "id": "1.2412001",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/porsche/porsche-cayenne-2016-1.2412001"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Macan",
+                        "years": [
+                            {
+                                "id": "1.2533693",
+                                "year": "2016",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/porsche/porsche-macan-2016-1.2533693"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "Porsche"
+            },
+            {
+                "models": [
+                    {
+                        "modelName": "1500",
+                        "years": [
+                            {
+                                "id": "1.2078812",
+                                "year": "2015",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/ram/ram-1500-2015-1.2078812"
+                            },
+                            {
+                                "id": "1.2412045",
+                                "year": "2016",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/ram/ram-1500-2016-1.2412045"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "2500",
+                        "years": [
+                            {
+                                "id": "1.2078810",
+                                "year": "2015",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/ram/ram-2500-heavy-duty-2015-1.2078810"
+                            },
+                            {
+                                "id": "1.2381687",
+                                "year": "2016",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/ram/ram-2500-heavy-duty-2016-1.2381687"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "3500",
+                        "years": [
+                            {
+                                "id": "1.2078808",
+                                "year": "2015",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/ram/ram-3500-heavy-duty-2015-1.2078808"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "ProMaster",
+                        "years": [
+                            {
+                                "id": "1.2078809",
+                                "year": "2015",
+                                "type": "Van",
+                                "url": "http://www.nydailynews.com/autos/ram/ram-promaster-2015-1.2078809"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "ProMaster City",
+                        "years": [
+                            {
+                                "id": "1.2156131",
+                                "year": "2015",
+                                "type": "Van",
+                                "url": "http://www.nydailynews.com/autos/ram/ram-promaster-city-2015-1.2156131"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "Ram"
+            },
+            {
+                "models": [
+                    {
+                        "modelName": "FR-S",
+                        "years": [
+                            {
+                                "id": "1.2359927",
+                                "year": "2016",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/scion/2016-scion-fr-s-2016-1.2359927"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "tC",
+                        "years": [
+                            {
+                                "id": "1.2359935",
+                                "year": "2016",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/scion/2016-scion-tc-2016-1.2359935"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "Scion"
+            },
+            {
+                "models": [
+                    {
+                        "modelName": "Forester",
+                        "years": [
+                            {
+                                "id": "1.2078821",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/subaru/subaru-forester-2015-1.2078821"
+                            },
+                            {
+                                "id": "1.2324708",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/subaru/subaru-forester-2016-1.2324708"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Impreza 5-Door",
+                        "years": [
+                            {
+                                "id": "1.2078823",
+                                "year": "2015",
+                                "type": "Hatchback",
+                                "url": "http://www.nydailynews.com/autos/subaru/subaru-impreza-5-door-2015-1.2078823"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Impreza Sedan",
+                        "years": [
+                            {
+                                "id": "1.2078817",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/subaru/subaru-impreza-sedan-2015-1.2078817"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Legacy",
+                        "years": [
+                            {
+                                "id": "1.2078819",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/subaru/subaru-legacy-2015-1.2078819"
+                            },
+                            {
+                                "id": "1.2324788",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/subaru/subaru-legacy-2016-1.2324788"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Outback",
+                        "years": [
+                            {
+                                "id": "1.2078818",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/subaru/subaru-outback-2015-1.2078818"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "WRX",
+                        "years": [
+                            {
+                                "id": "1.2142863",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/subaru/subaru-wrx-2015-1.2142863"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "WRX STI",
+                        "years": [
+                            {
+                                "id": "1.2142874",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/subaru/subaru-wrx-sti-2015-1.2142874"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "XV Crosstrek",
+                        "years": [
+                            {
+                                "id": "1.2078822",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/subaru/subaru-xv-crosstrek-2015-1.2078822"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "XV Crosstrek Hybrid",
+                        "years": [
+                            {
+                                "id": "1.2078820",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/subaru/subaru-xv-crosstrek-hybrid-2015-1.2078820"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "Subaru"
+            },
+            {
+                "models": [
+                    {
+                        "modelName": "4Runner",
+                        "years": [
+                            {
+                                "id": "1.2078832",
+                                "year": "2015",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/toyota/toyota-4runner-2015-1.2078832"
+                            },
+                            {
+                                "id": "1.2382185",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/toyota/toyota-4runner-2016-1.2382185"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Avalon",
+                        "years": [
+                            {
+                                "id": "1.2078835",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/toyota/toyota-avalon-2015-1.2078835"
+                            },
+                            {
+                                "id": "1.2412062",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/toyota/toyota-avalon-2016-1.2412062"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Avalon Hybrid",
+                        "years": [
+                            {
+                                "id": "1.2078830",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/toyota/toyota-avalon-hybrid-2015-1.2078830"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Camry",
+                        "years": [
+                            {
+                                "id": "1.2078836",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/toyota/toyota-camry-2015-1.2078836"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Camry Hybrid",
+                        "years": [
+                            {
+                                "id": "1.2078826",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/toyota/toyota-camry-hybrid-2015-1.2078826"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Corolla",
+                        "years": [
+                            {
+                                "id": "1.2078829",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/toyota/toyota-corolla-2015-1.2078829"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Highlander",
+                        "years": [
+                            {
+                                "id": "1.2078833",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/toyota/toyota-highlander-2015-1.2078833"
+                            },
+                            {
+                                "id": "1.2450716",
+                                "year": "2016",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/toyota/toyota-highlander-2016-1.2450716"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Highlander Hybrid",
+                        "years": [
+                            {
+                                "id": "1.2078825",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/toyota/toyota-highlander-hybrid-2015-1.2078825"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Prius",
+                        "years": [
+                            {
+                                "id": "1.2078824",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/toyota/toyota-prius-2015-1.2078824"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Prius c",
+                        "years": [
+                            {
+                                "id": "1.2089496",
+                                "year": "2015",
+                                "type": "Hatchback",
+                                "url": "http://www.nydailynews.com/autos/toyota/toyota-prius-2015-1.2089496"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Prius v",
+                        "years": [
+                            {
+                                "id": "1.2092172",
+                                "year": "2015",
+                                "type": "Wagon",
+                                "url": "http://www.nydailynews.com/autos/toyota/2015-toyota-prius-v-2015-1.2092172"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "RAV4",
+                        "years": [
+                            {
+                                "id": "1.2078834",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/toyota/toyota-rav4-2015-1.2078834"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Sienna",
+                        "years": [
+                            {
+                                "id": "1.2078831",
+                                "year": "2015",
+                                "type": "Minivan",
+                                "url": "http://www.nydailynews.com/autos/toyota/toyota-sienna-2015-1.2078831"
+                            },
+                            {
+                                "id": "1.2485003",
+                                "year": "2016",
+                                "type": "Minivan",
+                                "url": "http://www.nydailynews.com/autos/toyota/toyota-sienna-2016-1.2485003"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Tacoma",
+                        "years": [
+                            {
+                                "id": "1.2078827",
+                                "year": "2015",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/toyota/toyota-tacoma-2015-1.2078827"
+                            },
+                            {
+                                "id": "1.2371866",
+                                "year": "2016",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/toyota/toyota-tacoma-2016-1.2371866"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Tundra",
+                        "years": [
+                            {
+                                "id": "1.2078828",
+                                "year": "2015",
+                                "type": "Truck",
+                                "url": "http://www.nydailynews.com/autos/toyota/toyota-tundra-2015-1.2078828"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Venza",
+                        "years": [
+                            {
+                                "id": "1.2134724",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/toyota/toyota-venza-2015-1.2134724"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "Toyota"
+            },
+            {
+                "models": [
+                    {
+                        "modelName": "Beetle Convertible",
+                        "years": [
+                            {
+                                "id": "1.2142832",
+                                "year": "2015",
+                                "type": "Convertible",
+                                "url": "http://www.nydailynews.com/autos/volkswagen/volkswagen-beetle-convertible-2015-1.2142832"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Beetle Coupe",
+                        "years": [
+                            {
+                                "id": "1.2142815",
+                                "year": "2015",
+                                "type": "Coupe",
+                                "url": "http://www.nydailynews.com/autos/volkswagen/volkswagen-beetle-coupe-2015-1.2142815"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "eGolf",
+                        "years": [
+                            {
+                                "id": "1.2133029",
+                                "year": "2015",
+                                "type": "Hybrid / Electric",
+                                "url": "http://www.nydailynews.com/autos/volkswagen/volkswagen-egolf-2015-1.2133029"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Golf",
+                        "years": [
+                            {
+                                "id": "1.2132979",
+                                "year": "2015",
+                                "type": "Hatchback",
+                                "url": "http://www.nydailynews.com/autos/volkswagen/volkswagen-golf-2015-1.2132979"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Golf GTI",
+                        "years": [
+                            {
+                                "id": "1.2132990",
+                                "year": "2015",
+                                "type": "Hatchback",
+                                "url": "http://www.nydailynews.com/autos/volkswagen/volkswagen-golf-gti-2015-1.2132990"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Golf R",
+                        "years": [
+                            {
+                                "id": "1.2133013",
+                                "year": "2015",
+                                "type": "Hatchback",
+                                "url": "http://www.nydailynews.com/autos/volkswagen/volkswagen-golf-2015-1.2133013"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Golf SportWagen",
+                        "years": [
+                            {
+                                "id": "1.2156084",
+                                "year": "2015",
+                                "type": "Wagon",
+                                "url": "http://www.nydailynews.com/autos/volkswagen/volkswagen-golf-sportwagen-2015-1.2156084"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Jetta",
+                        "years": [
+                            {
+                                "id": "1.2078839",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/volkswagen/volkswagen-jetta-2015-1.2078839"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Jetta GLI",
+                        "years": [
+                            {
+                                "id": "1.2081516",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/volkswagen/volkswagen-jetta-2015-1.2081516"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Jetta Hybrid",
+                        "years": [
+                            {
+                                "id": "1.2078838",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/volkswagen/volkswagen-jetta-hybrid-2015-1.2078838"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Passat",
+                        "years": [
+                            {
+                                "id": "1.2078837",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/volkswagen/volkswagen-passat-2015-1.2078837"
+                            },
+                            {
+                                "id": "1.2431260",
+                                "year": "2016",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/volkswagen/volkswagen-passat-2016-1.2431260"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "Tiguan",
+                        "years": [
+                            {
+                                "id": "1.2150560",
+                                "year": "2015",
+                                "type": "SUV",
+                                "url": "http://www.nydailynews.com/autos/volkswagen/volkswagen-tiguan-2015-1.2150560"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "Volkswagen"
+            },
+            {
+                "models": [
+                    {
+                        "modelName": "S60",
+                        "years": [
+                            {
+                                "id": "1.2150582",
+                                "year": "2015",
+                                "type": "Sedan",
+                                "url": "http://www.nydailynews.com/autos/volvo/volvo-s60-2015-1.2150582"
+                            }
+                        ]
+                    },
+                    {
+                        "modelName": "XC60",
+                        "years": [
+                            {
+                                "id": "1.2150587",
+                                "year": "2015",
+                                "type": "Crossover",
+                                "url": "http://www.nydailynews.com/autos/volvo/volvo-xc60-2015-1.2150587"
+                            }
+                        ]
+                    }
+                ],
+                "brandName": "Volvo"
+            }
+        ]
+    }
+}
