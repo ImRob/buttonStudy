@@ -111,7 +111,7 @@ function test(obj) {
 }
 
 $(document).ready(function() {
-    $.getJSON('/data.json', function(responseData) {
+    $.getJSON('./data.json', function(responseData) {
         clickEvents();
         brands = responseData.ymm.brands;
         brandDropDown(listBrands(brands));
