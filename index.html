@@ -1,29 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>button study</title>
-	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.js"></script>
-</head>
-<body>
-	<style>
-	select{
-		width:150px;
-		padding:5px 10px;
-	    -webkit-appearance: none;
-	   -moz-appearance: none;
-	   appearance: none;
-	}
-	.on{
-		border:2px solid blue;
-	}
+**BUTTON STUDY**
 
-	</style>
-	<form>
-		<select id="brand"><option value="default">choose a brand</option></select>
-		<select id="model" disabled="disabled"><option value="default">choose a model</option> </select>
-		<select id="year" disabled="disabled"><option value="default">choose a year</option> </select>
-		<input id="submit" type="submit" name="" disabled="disabled">
-	</form>
-	<script src="./script.js"></script>
-</body>
-</html>
+A Simple interface that takes a JSON object and allows the user to drill down to select more specific options.
+
+At minimum they must choose a brand before being able to submit the form. The options are updated if a user goes back and changes an earlier parameter. The focus was on exploring ways to sanely manipulate a UI that depended on nested data using just jQuery/vanilla JS. This is **NOT** jQuery's wheelhouse by any means and a lot of other library's can give you more for less. 
+
+With that said it was fun to explore the push and pull between separating data and UI concerns while maintaining some sort of code clarity.
+
+clone to a local folder and run a simple server using the serve utility.
+
+todo:
+sanitize brand and model names when they include special characters or spaces such as Land Rover and Mercedes - Benz
