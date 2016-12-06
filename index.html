@@ -1,24 +1,38 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>button study!</title>
+	<title>button study</title>
 	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.js"></script>
 </head>
 <body>
 	<style>
-	select{
+	select,input{
 		width:150px;
 		padding:5px 10px;
+		border:1px solid rgba(0,0,0,.3);
+		background:#ffffff;
 	    -webkit-appearance: none;
 	   -moz-appearance: none;
 	   appearance: none;
+	   text-transform: uppercase;;
+		border-radius:5px;
 	}
 	.on{
-		border:2px solid blue;
+		border:2px solid #0093ec;
 	}
-
+	.wrapper{
+		position:absolute;
+		top:50%;
+		left:50%;
+		transform:translate(-50%, -50%);
+		padding: 25px;
+		width:50%;
+		border:1px solid rgba(0,0,0,.3);
+		border-radius:5px;
+		background:#ffffff;
+	}
 	</style>
-	<form>
+	<form class="wrapper">
 		<select id="brand"><option value="default">choose a brand</option></select>
 		<select id="model" disabled="disabled"><option value="default">choose a model</option> </select>
 		<select id="year" disabled="disabled"><option value="default">choose a year</option> </select>
